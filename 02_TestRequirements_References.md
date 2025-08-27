@@ -27,7 +27,7 @@ Tiếng việt:
 > TR-005: Đảm bảo bảo mật thông tin khi nhập mật khẩu.
 
 ## 3. Các điều kiện cần thiết để viết một Test Requirement tốt
-Một Test Requirement tốt nên tuân thủ theo tiêu chí SMART (giống cách viết yêu cầu phần mềm):
+Một Test Requirement tốt nên tuân thủ theo tiêu chí **SMART** (giống cách viết yêu cầu phần mềm):
 | Yếu tố             | Ý nghĩa              | Giải thích                                                 |
 | ------------------ | -------------------- | ---------------------------------------------------------- |
 | **S - Specific**   | Cụ thể               | Nêu rõ chức năng, hành động, đầu vào, đầu ra cần kiểm thử. |
@@ -36,7 +36,7 @@ Một Test Requirement tốt nên tuân thủ theo tiêu chí SMART (giống cá
 | **R - Relevant**   | Phù hợp              | Liên quan trực tiếp đến chức năng và yêu cầu hệ thống.     |
 | **T - Testable**   | Có thể kiểm thử được | Có thể kiểm tra bằng cách thủ công hoặc tự động.           |
 
-### Các yếu tố kỹ thuật bổ sung (TUC):
+### Các yếu tố kỹ thuật bổ sung (**TUC**):
 - **Traceable**: Có thể truy vết về yêu cầu chức năng hoặc tài liệu đặc tả.
 - **Unambiguous**: Không mơ hồ, không gây hiểu nhầm.
 - **Consistent**: Không mâu thuẫn với yêu cầu khác.
