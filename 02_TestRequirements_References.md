@@ -97,12 +97,12 @@ Apply the SMART + TUC principle:
 ## 7. Useful Vocabulary & Phrases
 | Vietnamese Term                     | English Test Requirement Equivalent |
 | ----------------------------------- | ----------------------------------- |
-| Người dùng nhập dữ liệu             | The user shall input data           |
-| Hệ thống hiển thị thông báo         | The system shall display a message  |
-| Chuyển hướng đến trang chủ          | Redirect to the home page           |
-| Tên đăng nhập/mật khẩu không hợp lệ | Invalid username or password        |
-| Không được để trống                 | Must not be left blank              |
-| Dữ liệu phải được mã hóa            | The data must be encrypted          |
+| Người dùng nhập dữ liệu             | The user **shall** input data           |
+| Hệ thống hiển thị thông báo         | The system **shall display** a message  |
+| Chuyển hướng đến trang chủ          | **Redirect to** the home page           |
+| Tên đăng nhập/mật khẩu không hợp lệ | **Invalid **username or password        |
+| Không được để trống                 | **Must not be **left blank              |
+| Dữ liệu phải được mã hóa            | The data **must be** encrypted          |
 
 ### 7.1.Nhóm từ vựng mô tả hành vi hệ thống (System behavior)
 
